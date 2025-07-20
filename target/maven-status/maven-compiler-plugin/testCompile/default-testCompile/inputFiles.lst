@@ -1,2 +1,11 @@
 C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\com\eklipsegg\AppTest.java
-C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\TestAja.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\com\eklipsegg\base\BaseObject.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\com\eklipsegg\base\BasePage.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\com\eklipsegg\base\BaseTestSuite.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\com\eklipsegg\constant\Env.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\selenium\object_repository\HomeObject.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\selenium\object_repository\LoginObject.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\selenium\pages\HomePage.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\selenium\pages\LoginPage.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\selenium\tests\home.java
+C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\selenium\tests\login.java

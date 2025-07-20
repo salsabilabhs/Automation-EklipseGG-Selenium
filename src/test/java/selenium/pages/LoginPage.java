@@ -1,6 +1,5 @@
 package selenium.pages;
 
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Wait;
 import org.testng.Assert;
@@ -40,6 +39,12 @@ public class LoginPage extends BasePage {
     public void clickLoginBtn() throws Exception {
         loginObject.loginButton.click();
         Thread.sleep(Duration.ofSeconds(3).toMillis());
+    }
+
+    public void loginValidUser(String email, String password) throws Exception {
+        fillTheEmail(email);
+        fillThePassword(password);
+        clickLoginBtn();
     }
 
     public void verifyUrl() {

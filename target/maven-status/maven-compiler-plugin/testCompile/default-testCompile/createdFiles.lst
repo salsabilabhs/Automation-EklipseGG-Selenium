@@ -1,1 +1,11 @@
+com\eklipsegg\base\BaseTestSuite.class
+selenium\object_repository\LoginObject.class
+selenium\suites\home.class
+selenium\object_repository\HomeObject.class
+selenium\pages\LoginPage.class
+selenium\suites\login.class
+selenium\pages\HomePage.class
+com\eklipsegg\base\BasePage.class
+com\eklipsegg\constant\Env.class
+com\eklipsegg\base\BaseObject.class
 com\eklipsegg\AppTest.class
