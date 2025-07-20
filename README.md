@@ -73,8 +73,8 @@ There are two main ways to run the test cases in this project:
 You can execute specific test files directly from your IDE (e.g., IntelliJ, Eclipse):
 
 - Navigate to the test folder:  
-  `C:\Users\Maxxi\automation-eklipsegg-selenium\src\test\java\selenium\tests`
-- Open any test class you want to run (e.g., `LoginTest.java`, `ProfileTest.java`, etc.)
+  `automation-eklipsegg-selenium\src\test\java\selenium\tests`
+- Open any test class you want to run (e.g., `login.java`, `home.java`, etc.)
 - Click the **Run (▶️ Play)** button next to the method or class name to execute it
 
 > This is useful for debugging or running selected tests during development.
